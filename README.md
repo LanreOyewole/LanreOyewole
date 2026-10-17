@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LanreOyewole
-- 👀 I’m interested in Java, Python and Kubernetes
-- 🌱 I’m currently learning more about Python and Kubernetes
-- 💞️ I’m looking to collaborate on patterns and solutions for enterprise integration
+- 👀 I have a passion for elegant and effective architecture
+- 🌱 I’m currently learning more about AI, Python and related technologies
 - 📫 How to reach me: lanre@net-technologies.com
 
 <!---
